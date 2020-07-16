@@ -1,6 +1,6 @@
 # CT-Colonography-Polyp-Detection
 This is about polyp detection in CT images for CT-Colonography as part of my scholar research for master degree.  
-The paper hasn't passed peer-review, but it is provided here in case that someone may benefit from it.
+The paper wasn't accpeted by influencial journal. Due to limited time and resources, I decided to give up publishing and just shared it provided here in case that someone may benefit from it.
 
 
 ## Abstract
